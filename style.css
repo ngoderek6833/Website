@@ -71,5 +71,6 @@ body {
     margin-left: 1rem;
 }
 
-
-
+#abouttext {
+    text-align: center;
+}

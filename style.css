@@ -16,7 +16,7 @@ body {
     width: 42%;
     border: 0.125rem solid #1e2b3d;
     height: 3.75rem;
-    border-radius: .2rem;
+    border-radius: .3rem;
 }
 
 .nav li {
@@ -56,7 +56,7 @@ body {
     border: 0.125rem solid #FFFFFF;
     height: 100rem;
     margin: 2rem auto;
-    border-radius: .2rem;
+    border-radius: .3rem;
 }
 
 #image {
